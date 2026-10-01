@@ -17,7 +17,7 @@
 ### 🔒 Enterprise Intellectual Property & NDA Notice
 
 > **To Hiring Managers, CTOs & Recruiters:**  
-> Over **14+ years of software delivery** across **LogiGear**, **NeoLab Vietnam**, and **DGWA / TomoGS**, my core technical contributions have been dedicated to mission-critical enterprise client systems (Multi-tenant HRM & Payroll engines, Insurance Platforms, Drone Flight Control, 3D Healthcare Portals).  
+> Over **14+ years of software delivery** across **LogiGear**, **NeoLab Vietnam**, and **DGWA / TomoGS**, my primary technical contributions have been dedicated to mission-critical enterprise client systems (Multi-tenant HRM & Payroll engines, Insurance Platforms, Drone Flight Control, 3D Healthcare Portals).  
 > 
 > These codebases represent proprietary client intellectual property protected under strict **Non-Disclosure Agreements (NDA)** and reside within private enterprise repositories.
 >
@@ -43,14 +43,17 @@
 
 ---
 
-### 🛠️ Core Competencies & Tech Stack
+### 🛠️ Broad Competencies & Technology Spectrum
 
-| Domain | Technologies & Methodologies |
+| Technical Domain | Technologies, Standards & Methodologies |
 | :--- | :--- |
-| **Frontend Core** | React 19 / 18, TypeScript, Next.js (App Router), Redux Toolkit, React Query, HTML5, CSS3 / Modern Vanilla CSS, Webpack, Vite |
-| **Architecture & Leadership** | Solution Architecture, WBS Estimation & Breakdown, Agile / Scrum Master, Multi-repository coordination, Technical Mentorship |
-| **Performance & Testing** | Core Web Vitals (LCP, INP, CLS), Playwright Multi-Device E2E, Vitest Unit Testing, WebGL / Three.js, WebSocket |
-| **DevOps & Tooling** | Git, GitHub Actions CI/CD, Docker, Coolify, Vercel, Supabase, Linux |
+| **Frontend Core & Architecture** | React 19 / 18, Next.js (App Router), TypeScript, JavaScript (ES6+), Redux Toolkit, React Query, Zustand, Context API, Modern Vanilla CSS, Micro-frontends |
+| **Graphics & 3D Web** | Three.js, WebGL, Canvas API, 3D Mesh rendering & interactive dental treatment simulation |
+| **Real-time & Telemetry** | WebSockets, Event-Driven Architecture, Real-time drone flight monitoring, High-frequency UI updates |
+| **Leadership & Delivery** | Solution Architecture, Work Breakdown Structure (WBS) estimation, Agile / Scrum Master, Sprint Planning, Code Reviews, Technical Mentorship |
+| **Quality Engineering & Testing** | Core Web Vitals (LCP < 1.8s, zero CLS), Multi-Device E2E Testing (Playwright), Unit Testing (Vitest, Jest), High-fidelity `@media print` |
+| **DevOps, CI/CD & Infra** | Git, GitHub Actions automated CI/CD pipelines, Docker containerization, Coolify self-hosting, Vercel, Supabase, Linux environments |
+| **Foundational & Systems Engineering** | 5 years at LogiGear (2012–2017): C#, C++, Java, PHP, keyword-driven test automation frameworks & desktop automation engines |
 
 ---
 
@@ -72,7 +75,7 @@
 
 ### 📬 Connect & Direct Contact
 
-- 🌐 **Live Executive CV**: [https://nguyenthanhvu.vercel.app](https://nguyenthanhvu.vercel.app)
-- ✉ **Email**: [nthvu90@gmail.com](mailto:nthvu90@gmail.com)
-- ✆ **Phone**: [+84 935 407 886](tel:+84935407886)
-- 📍 **Location**: Da Nang, Vietnam
+- 🌐 **Live Executive CV**: [https://nguyenthanhvu.vercel.app](https://nguyenthanhvu.vercel.app) *(View interactive CV & export print-perfect PDF)*
+- ✉ **Direct Email**: [nthvu90@gmail.com](mailto:nthvu90@gmail.com)
+- ✆ **Direct Phone**: *Protected against automated web scrapers. Available upon request via email or on the Executive CV.*
+- 📍 **Location**: Da Nang, Vietnam *(Open to Remote, Hybrid & Relocation opportunities)*
