@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nguyen Thanh Vu (Anh Vu)
+# Nguyen Thanh Vu
 
 ### Senior Frontend Developer · Frontend Tech Lead · Engineering Manager
 
